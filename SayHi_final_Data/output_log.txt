@@ -1,0 +1,47 @@
+Mono path[0] = 'C:/Users/SCPC/Desktop/雜/遊戲專題/SayHi_final/SayHi_final_Data/Managed'
+Mono config path = 'C:/Users/SCPC/Desktop/雜/遊戲專題/SayHi_final/SayHi_final_Data/Mono/etc'
+PlayerConnection initialized from C:/Users/SCPC/Desktop/雜/遊戲專題/SayHi_final/SayHi_final_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55328
+Multi-casting "[IP] 192.168.51.32 [Port] 55328 [Flags] 3 [Guid] 3333130978 [EditorId] 1455012883 [Version] 1048832 [Id] WindowsPlayer(DESKTOP-33UHEES) [Debug] 0" to [225.0.0.222:54997]...
+Waiting for connection from host on [0.0.0.0:55328]...
+Timed out. Continuing without host connection.
+Started listening to [0.0.0.0:55328]
+PlayerConnection already initialized - listening to [0.0.0.0:55328]
+Player data archive not found at `C:/Users/SCPC/Desktop/雜/遊戲專題/SayHi_final/SayHi_final_Data/data.unity3d`, using local filesystem
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1060 3GB (ID=0x1c02)
+    Vendor:   NVIDIA
+    VRAM:     2988 MB
+    Driver:   26.21.14.3200
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\SCPC\Desktop\雜\遊戲專題\SayHi_final\SayHi_final_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\SCPC\Desktop\雜\遊戲專題\SayHi_final\SayHi_final_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\SCPC\Desktop\雜\遊戲專題\SayHi_final\SayHi_final_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\SCPC\Desktop\雜\遊戲專題\SayHi_final\SayHi_final_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\SCPC\Desktop\雜\遊戲專題\SayHi_final\SayHi_final_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\SCPC\Desktop\雜\遊戲專題\SayHi_final\SayHi_final_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\SCPC\Desktop\雜\遊戲專題\SayHi_final\SayHi_final_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\SCPC\Desktop\雜\遊戲專題\SayHi_final\SayHi_final_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\SCPC\Desktop\雜\遊戲專題\SayHi_final\SayHi_final_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\SCPC\Desktop\雜\遊戲專題\SayHi_final\SayHi_final_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\SCPC\Desktop\雜\遊戲專題\SayHi_final\SayHi_final_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\SCPC\Desktop\雜\遊戲專題\SayHi_final\SayHi_final_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.367 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.649434 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 3a58 -> priority: 1 
+  Thread -> id: 155c -> priority: 1 
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 430.199250 ms
+System memory in use before: 141.8 MB.
+System memory in use after: 115.5 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 21375.
+Total: 8.382479 ms (FindLiveObjects: 0.750593 ms CreateObjectMapping: 0.291840 ms MarkObjects: 2.457263 ms  DeleteObjects: 4.882441 ms)
+
